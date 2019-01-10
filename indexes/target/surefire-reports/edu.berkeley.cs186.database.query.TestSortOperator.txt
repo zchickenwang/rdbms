@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.query.TestSortOperator
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.001 s - in edu.berkeley.cs186.database.query.TestSortOperator
